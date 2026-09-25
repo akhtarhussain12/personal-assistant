@@ -10,7 +10,3 @@ It uses the `pydantic_ai` framework to interact with local LLM models for code r
 - Fast and privacy-friendly (no external API calls)
 - Modular design for easy extension
 - Dockerized for quick deployment
-
----
-
-## 🧩 Project Structure
