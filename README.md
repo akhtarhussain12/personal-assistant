@@ -1,4 +1,4 @@
-# 🧠 Personal Assistant (AI Code Review Agent)
+# 🧠 Personal Assistant
 
 A lightweight AI-powered personal assistant built with **Python**, **Ollama**, and **Docker**.  
 It uses the `pydantic_ai` framework to interact with local LLM models for code review and intelligent responses.
